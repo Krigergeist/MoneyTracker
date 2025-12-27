@@ -601,6 +601,46 @@
    'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\dateutil\\zoneinfo\\__init__.py',
    'PYMODULE'),
   ('decimal', 'C:\\Python313\\Lib\\decimal.py', 'PYMODULE'),
+  ('defusedxml',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\__init__.py',
+   'PYMODULE'),
+  ('defusedxml.ElementTree',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\ElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.cElementTree',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\cElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.common',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\common.py',
+   'PYMODULE'),
+  ('defusedxml.expatbuilder',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\expatbuilder.py',
+   'PYMODULE'),
+  ('defusedxml.expatreader',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\expatreader.py',
+   'PYMODULE'),
+  ('defusedxml.minidom',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\minidom.py',
+   'PYMODULE'),
+  ('defusedxml.pulldom',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\pulldom.py',
+   'PYMODULE'),
+  ('defusedxml.sax',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\sax.py',
+   'PYMODULE'),
+  ('defusedxml.xmlrpc',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\defusedxml\\xmlrpc.py',
+   'PYMODULE'),
   ('difflib', 'C:\\Python313\\Lib\\difflib.py', 'PYMODULE'),
   ('dis', 'C:\\Python313\\Lib\\dis.py', 'PYMODULE'),
   ('doctest', 'C:\\Python313\\Lib\\doctest.py', 'PYMODULE'),
@@ -1794,6 +1834,74 @@
   ('numpy.version',
    'C:\\Users\\HYPE '
    'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('odf',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\__init__.py',
+   'PYMODULE'),
+  ('odf.attrconverters',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\attrconverters.py',
+   'PYMODULE'),
+  ('odf.config',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\config.py',
+   'PYMODULE'),
+  ('odf.draw',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\draw.py',
+   'PYMODULE'),
+  ('odf.element',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\element.py',
+   'PYMODULE'),
+  ('odf.grammar',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\grammar.py',
+   'PYMODULE'),
+  ('odf.load',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\load.py',
+   'PYMODULE'),
+  ('odf.manifest',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\manifest.py',
+   'PYMODULE'),
+  ('odf.meta',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\meta.py',
+   'PYMODULE'),
+  ('odf.namespaces',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\namespaces.py',
+   'PYMODULE'),
+  ('odf.odfmanifest',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\odfmanifest.py',
+   'PYMODULE'),
+  ('odf.office',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\office.py',
+   'PYMODULE'),
+  ('odf.opendocument',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\opendocument.py',
+   'PYMODULE'),
+  ('odf.style',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\style.py',
+   'PYMODULE'),
+  ('odf.table',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\table.py',
+   'PYMODULE'),
+  ('odf.teletype',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\teletype.py',
+   'PYMODULE'),
+  ('odf.text',
+   'C:\\Users\\HYPE '
+   'AMD\\AppData\\Roaming\\Python\\Python313\\site-packages\\odf\\text.py',
    'PYMODULE'),
   ('opcode', 'C:\\Python313\\Lib\\opcode.py', 'PYMODULE'),
   ('packaging',
@@ -3848,6 +3956,7 @@
    'PYMODULE'),
   ('xmlrpc', 'C:\\Python313\\Lib\\xmlrpc\\__init__.py', 'PYMODULE'),
   ('xmlrpc.client', 'C:\\Python313\\Lib\\xmlrpc\\client.py', 'PYMODULE'),
+  ('xmlrpc.server', 'C:\\Python313\\Lib\\xmlrpc\\server.py', 'PYMODULE'),
   ('zipfile', 'C:\\Python313\\Lib\\zipfile\\__init__.py', 'PYMODULE'),
   ('zipfile._path',
    'C:\\Python313\\Lib\\zipfile\\_path\\__init__.py',
